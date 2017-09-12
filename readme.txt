@@ -5,7 +5,3 @@ Git tracks changes.
 Git tracks changes of files.
 My test1.
 My stupid friend still preferse SVN.
-My family git.
-My second family git.
-my third family git.
-my four family git.
